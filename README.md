@@ -8,10 +8,7 @@ This repository provides all necessary files to reproduce the results presented 
 
 1. **Reproducibility of Results (Forecast Computation & Evaluation) – The Primary Step**  
    - A Jupyter Notebook (`.ipynb`) that runs the full forecast aggregation and evaluation, producing all figures, tables and appendices in the paper.
-
-  - The chunks in this Jupyter Notebook are labeled with the relevant figure, table, and appendix, allowing the reader to step through and verify each. Running this notebook alone is sufficient for reproducing the results and is designed to help users easily validate the findings.
-
-
+   - The chunks in this Jupyter Notebook are labeled with the relevant figure, table, and appendix, allowing the reader to step through and verify each. Running this notebook alone is sufficient for reproducing the results and is designed to help users easily validate the findings.
 
 2. **Intermediary Computation Steps and Appendices (Optional)**  
    - This section contains intermediary processing steps and appendix materials that provide additional verification of the computational process:  
