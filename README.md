@@ -29,7 +29,6 @@ This repository provides all necessary files to reproduce the results presented 
 
 ```
 /IJF_REPRODUCIBILITY_PACKET
-│── /__pycache__         # Cached Python modules
 │── /figures_data        # Data for figures in main reproducibility notebook
 │── /intermediary        # Intermediate computations and verification
 │   │── /appendix_b      # Appendix B scripts and data
