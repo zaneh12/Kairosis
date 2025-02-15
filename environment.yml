@@ -1,0 +1,16 @@
+name: kairosis-replication
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - tabulate
+  - robustats
+  - jsonschema  # Standard JSON handling
