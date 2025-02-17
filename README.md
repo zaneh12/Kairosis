@@ -1,6 +1,9 @@
 # Replication-Kairosis  
 Replication package for **"Kairosis: A method for dynamical probability forecast aggregation informed by Bayesian change point detection"**  
 
+**Date:** 17th of February 2025  
+**Authors:** Zane Hassoun, Ben Powell, Niall MacKay  
+
 ## README - Reproducibility Package  
 
 ### 1. Package Overview  
